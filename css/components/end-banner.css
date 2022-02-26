@@ -1,0 +1,14 @@
+.end-banner{
+	background-image: url(../../images/end-banner.jpg);
+	background-size: cover;
+	background-position: center;
+	color: black;
+	padding-left: 150px 0;
+	padding: 50px 50px;
+}
+.end-banner h1{
+	font-size: 50px;
+}
+.end-banner p{
+	color: white;
+}
